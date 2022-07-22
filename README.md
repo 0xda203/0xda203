@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="./computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**0xda203/0xda203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Gabriel, estudante de Sistemas de Informação na EACH-USP e Web & Mobile Fullstack developer.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: <strong>Javascript, Go, Python e Java.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: <strong>Node.js, Ionic, Cacitor, AngularJS, Firebase, MongoDB, MySQL e etc.</strong>
+</p>
+
+
+<p align="left">
+  <a href="mailto:gabxda203@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>  
