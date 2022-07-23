@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Node.js, Ionic, Cacitor, AngularJS, Firebase, MongoDB, MySQL e etc.</strong>
+  💼 Ferramentas: <strong>Node.js, Ionic, Cacitor, AngularJS, React, Firebase, MongoDB, MySQL e etc.</strong>
 </p>
 
 
